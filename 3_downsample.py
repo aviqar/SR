@@ -10,3 +10,5 @@ for i in range(121):
     count = count + 1
     
 np.save('/Volumes/GPN2/Asim/data/3_res_trans_newbrain.npy',res_trans_newbrain)
+
+//ugh
